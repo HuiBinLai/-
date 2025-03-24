@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>RAG Search</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>繁星拾忆</h1>
+      <div class="search-box">
+        <input type="text" id="query" placeholder="输入搜索内容..." />
+        <button id="search-btn">搜索</button>
+      </div>
+      <div class="loading" id="loading" style="display: none">
+        <div class="spinner"></div>
+        正在搜索...
+      </div>
+      <div class="keywords" id="keywords">
+        <h2>生成关键词</h2>
+        <div class="keywords-list" id="keywords-list"></div>
+      </div>
+      <div class="results">
+        <h2>搜索结果</h2>
+        <ul id="results-list"></ul>
+      </div>
+      <div class="answer">
+        <h2>回答</h2>
+        <p id="answer-text"></p>
+      </div>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>

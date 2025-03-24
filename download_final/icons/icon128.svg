@@ -1,0 +1,11 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" rx="25" fill="url(#paint0_linear)"/>
+  <path d="M64 24L77.5 49.5H103L82.75 68L96 93.5L64 75.5L32 93.5L45.25 68L25 49.5H50.5L64 24Z" fill="white"/>
+  <text x="50%" y="110" text-anchor="middle" font-family="Arial" font-size="14" fill="white">繁星拾忆</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4a90e2"/>
+      <stop offset="1" stop-color="#2c6dbd"/>
+    </linearGradient>
+  </defs>
+</svg>

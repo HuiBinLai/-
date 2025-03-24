@@ -1,0 +1,1672 @@
+﻿index,url,title,time,content
+1,https://www.deepseek.com/,DeepSeek | 深度求索,2025/3/21 20:38,"🎉 DeepSeek-R1 已发布并开源，性能对标 OpenAI o1 正式版，在网页端、APP 和 API 全面上线，点击查看详情。
+探索未至之境
+开始对话
+与 DeepSeek-V3 和 R1 免费对话
+体验全新旗舰模型
+
+获取手机 App
+DeepSeek 官方推出的免费 AI 助手
+搜索写作阅读解题翻译工具
+
+API 开放平台 ↗
+English
+© 2025 杭州深度求索人工智能基础技术研究有限公司 版权所有
+浙ICP备2023025841号
+浙公网安备 33010502011812 号
+研究
+DeepSeek R1
+DeepSeek V3
+DeepSeek Coder V2
+DeepSeek VL
+DeepSeek V2
+DeepSeek Coder
+DeepSeek Math
+DeepSeek LLM
+产品
+DeepSeek App
+DeepSeek 网页版
+开放平台
+API 价格
+服务状态
+法务 & 安全
+隐私政策
+用户协议
+反馈安全漏洞
+加入我们
+岗位详情"
+2,https://www.csdn.net/,CSDN_专业开发者社区_已接入DeepSeekR1满血版,2025/3/21 20:38," 搜索
+会员中心 
+消息
+创作
+首页
+博客
+下载
+学习
+社区
+C知道
+GitCode
+InsCodeAI
+技术会议
+订阅
+关注
+收藏
+历史
+会员中心
+创作中心
+联系我们
+工作时间: 8:30 - 22:00
+客服电话: 400-660-0108
+kefu@csdn.net在线客服
+关于我们招贤纳士商务合作寻求报道
+京ICP备19004658号
+经营性网站备案信息
+公安备案号11010502030143
+营业执照
+北京互联网违法和不良信息举报中心
+家长监护
+中国互联网举报中心
+网络110报警服务
+Chrome商店下载
+账号管理规范
+版权与免责声明
+版权申诉
+出版物许可证
+©1999-2025北京创新乐知网络技术有限公司
+
+全部
+
+资讯
+
+DeepSeek
+
+运维
+
+操作系统
+
+人工智能
+
+Java
+
+C++
+
+Python
+
+数据结构与算法
+
+后端
+
+前端
+
+资讯头条
+
+更多资讯 
+
+Java 24正式发布，引入数千项改进！开发者：你发任你发，我用Java 8
+
+法规和技术双管齐下，规范 AI 生成内容标识
+
+月薪7万招工程师，小米汽车APP启动华为鸿蒙版开发工作；马化腾深夜回复网友对元宝的建议；苹果重组AI高管团队 | 极客头条
+
+3小时复刻传奇，OpenManus一作梁新兵：通用Agent的构建与赋能
+手把手实测！Claude Code真的能搞定GitHub问题？
+价格最贵！OpenAI推出o1-pro API，输出600美元/百万token
+倒计时 30 天！2025 全球机器学习技术大会全日程官宣！
+Siri 被曝「难产」！苹果高管承认：AI 功能成功率仅 60-80%，太“难看且尴尬”了
+性能超GPT-4o Mini！24B参数大模型Mistral Small 3.1正式发布
+开源项目
+更多开源项目
+
+Deep Lake：人工智能时代的数据湖
+
+人工智能
+
+7.1K
+
+113k stars！GitHub 上这个免费中文编程书库，覆盖全栈开发！
+
+github
+
+387
+
+Umi-OCR：一款高效便捷的离线OCR工具
+
+ocr
+
+354
+
+Beekeeper Studio：高颜值且免费的SQL开发工具
+
+sql
+
+1.4K
+
+精选博客
+排行榜
+LucianaiB
+强大的AI网站推荐（第一集）—— Devv AI
+Devv AI 是一款专为程序员设计的新一代 AI 搜索引擎，以其强大的 AI 驱动功能和多语言支持脱颖而出。它不仅能够快速准确地解答编程难题，还提供了多种搜索模式，满足不同开发者的需求。其 GitHub 模式更是将代码搜索和问答提升到了一个新的高度，通过连接 GitHub 仓库，开发者可以直接获取针对特定项目的精准建议。在使用 Devv AI 的过程中，我深刻体会到其强大的多模态处理能力和智能生成能力。无论是复杂的代码生成任务，还是简单的技术问题解答，Devv AI 都能迅速给出高质量的解决方案。
+
+阅读 1.1w
+
+82 赞
+
+收藏 89
+网安福宝
+AI作图手把手教程系列（3）：进阶篇 —— 使用ControlNet插件可控生成AI图
+图12参数介绍Enable-启用勾选后，点击生成按钮时，将会实时通过ControlNet引导图像生成，否则不生效。将你用画笔涂抹的区域颜色进行反转。RGB to BGR颜色通道反转Low VRAM低显存模式如果你的显卡内存小于4GB，建议勾选此选项。Guess Mode猜测（盲盒）模式，不需要任何正面与负面提示词，出图效果随机。备注：经本站测试，盲盒效果极佳，很有可能产生意想不到的惊喜效果！预处理器，每个ControlNet的模型都有不同的功能。Model。
+
+阅读 1.4k
+
+38 赞
+
+收藏 41
+道友老李
+【存储中间件】Redis核心技术与实战（五）：Redis缓存使用问题（BigKey、数据倾斜、Redis脑裂、多级缓存）、互联网大厂中的Redis
+bigkey是指key对应的value所占的内存空间比较大，例如一个字符串类型的value可以最大存到512MB，一个列表类型的value最多可以存储23-1个元素。如果按照数据结构来细分的话，一般分为字符串类型bigkey和非字符串类型bigkey。字符串类型：体现在单个value值很大，一般认为超过10KB就是bigkey，但这个值和具体的OPS相关。非字符串类型：哈希、列表、集合、有序集合,体现在元素个数过多。bigkey无论是空间复杂度和时间复杂度都不太友好，下面我们将介绍它的危害。
+
+阅读 2.1k
+
+44 赞
+
+收藏 27
+程序猿小假
+一篇文章让你彻底学会Ollama！【全文两万字详细讲解】
+Ollama 是一个开源的本地大语言模型运行框架，专为在本地机器上便捷部署和运行大型语言模型（LLM）而设计。Ollama 支持多种操作系统，包括 macOS、Windows、Linux 以及通过 Docker 容器运行。Ollama 提供对模型量化的支持，可以显著降低显存要求，使得在普通家用计算机上运行大型模型成为可能。
+
+阅读 3k
+
+54 赞
+
+收藏 21
+deephub
+生成AI的两大范式：扩散模型与Flow Matching的理论基础与技术比较
+扩散模型通过添加高斯噪声定义固定的随机路径。前向过程由预设的噪声调度确定，模型学习逆转这一特定过程。则允许在分布间设计灵活路径。这些路径可为直线、曲线轨迹，甚至可动态学习，提供更大的设计自由度。扩散模型与Flow Matching代表了生成建模领域的两类重要技术范式，各自基于独特的数学原理与实现策略。扩散模型通过定义固定的随机过程并学习其逆转，而Flow Matching则直接学习能够沿灵活路径转换分布的速度场。
+
+阅读 4.1k
+
+20 赞
+
+收藏 25
+吴师兄大模型
+从零开始学C#：用if-else和switch打造智能游戏逻辑
+在编程的世界中，控制流就像程序的大脑，决定了代码如何根据不同情况做出决策。作为C#基础入门的第4天内容，今天我们将聚焦条件语句，探索如何通过if-else和switch语句让程序学会“选择”。无论你是刚刚接触C#的初学者，还是希望在游戏开发中提升技能的开发者，本文都将为你提供清晰的知识框架、实用的代码示例以及游戏开发中的实战应用。让我们一起走进C#条件语句的世界，解锁程序的智能决策能力！条件语句是C#中用来控制程序执行路径的核心工具。
+
+阅读 3.5k
+
+51 赞
+
+收藏 34
+一只爱打拳的程序猿
+【JVM】内存区域划分，类加载机制和垃圾回收机制
+本期讲解：JVM的内存区域划分、类加载机制、垃圾回收机制。
+
+阅读 3.1k
+
+33 赞
+
+收藏 18
+风_间
+深入解读大模型开发工具Dify--底层数据存储
+dify在使用pg时，使用了两个库dify与dify_plugin。多类型数据库协同：Dify 采用了 PostgreSQL、Redis、文件存储和向量数据库的多层次存储架构，实现了数据的高效管理与快速访问。数据隔离与安全：通过 dify 和 dify_plugin 两个独立数据库的设计，确保了核心数据与插件数据的有效隔离，提升了系统的安全性。灵活部署配置：支持 Docker 部署和源码部署两种模式，通过环境变量配置数据库连接信息，提供了高度的部署灵活性。性能优化机制。
+
+阅读 2.8k
+
+35 赞
+
+收藏 15
+吴师兄大模型
+决策树算法全解析：从零基础到Titanic实战，一文搞定机器学习经典模型
+你是否曾好奇，机器学习如何从海量数据中挖掘出隐藏的规律？或者，一个简单的模型如何帮助医生诊断疾病、银行评估信用，甚至预测泰坦尼克号上的生还者？答案就在决策树算法中。作为机器学习领域的“常青树”，决策树以其直观易懂和强大的实用性，深受初学者和专业人士的喜爱。我还记得自己第一次接触决策树时的兴奋——用几行代码，就能让计算机像人类一样“思考”问题、分步决策。那一刻，我意识到它的潜力远超想象。这篇文章将带你走进决策树的世界，从零基础的构建过程，到信息增益与基尼指数的奥秘，再到剪枝优化和真实案例的实战演练。
+
+阅读 2.3k
+
+34 赞
+
+收藏 49
+xcLeigh
+计算机网络基础：认识网络硬件与传输介质
+计算机网络基础：认识网络硬件与传输介质，在计算机网络的庞大体系中，网络硬件与传输介质犹如坚实的骨架与脉络，支撑并承载着信息的流动。从家庭中的小型网络，到企业复杂的办公网络，再到覆盖全球的互联网，各类网络硬件设备各司其职，不同的传输介质发挥着独特的传输作用。它们相互协作，使得数据能够在不同设备之间快速、准确地传输，为人们的日常沟通、工作办公、娱乐休闲等活动提供了基础保障。
+
+阅读 1w
+
+27 赞
+
+收藏 35
+zty郑桐羽呀 『ZTY』主团团长
+[DeepSeek] 入门详细指南（上）
+今天的是 zty 写DeepSeek的第1篇文章，这个系列我也不知道能更多久，大约是一周一更吧，然后跟C++的知识详解换着更。最近啊，浙江出现了一匹AI界的黑马——DeepSeek。这个名字可能对很多人来说还比较陌生，但它已经在全球范围内引发了巨大的关注，甚至让一些科技巨头感到了压力。简单来说这 DeepSeek足以改变世界格局先赞后看养成习惯众所周知，一篇文章需要一个头图先赞后看养成习惯。
+
+阅读 4.1k
+
+86 赞
+
+收藏 36
+PingdiGuo_guo
+C++进阶（一）
+C++进阶重磅来袭！重载、引用知识点，关注PingdiGuo_guo，了解更多干货吧！
+
+阅读 2.4k
+
+78 赞
+
+收藏 49
+deephub
+融合AMD与NVIDIA GPU集群的MLOps：异构计算环境中的分布式训练架构实践
+对于寻求在机器学习和深度学习工作负载中实现快速扩展的组织而言，在多供应商GPU集群上执行分布式训练的能力提供了极具战略价值的技术机遇。由于主流机器学习框架缺乏原生支持，目前实现这一目标仍需投入大量工程资源。开放、标准化实现的发展将有助于实现异构硬件生态系统的民主化访问，从而在不牺牲性能的前提下提供经济高效的技术灵活性。本文的源代码可以在这个项目中找到：作者：Rafał Siwek。
+
+阅读 5.4k
+
+20 赞
+
+收藏 9
+珹洺
+计算机网络：（二）计算机网络在我国发展与网络类别与性能 （附带图谱更好对比理解）
+在上一篇博客中，我们详细探讨了互联网的概述与组成，包括其核心结构和关键设备。这篇博客将继续深入计算机网络的知识领域，聚焦于计算机网络在我国的发展历程、网络的分类方法以及性能评估指标。这些内容不仅是计算机网络课程的基础，也是大学考试中常考的重点。我的个人主页，欢迎来阅读我的其他文章我的计算机网络专栏，欢迎来阅读计算机网络是指将地理位置不同的具有独立功能的多台计算机及其外部设备，通过通信线路连接起来，在网络操作系统、网络管理软件及网络通信协议的管理和协调下，实现资源共享和信息传递的系统。
+
+阅读 3.2k
+
+100 赞
+
+收藏 77
+xcLeigh
+你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告
+你的旧电脑还跑得动AI吗？ToDesk云电脑/青椒云/顺网云算力支持实测报告，随着AI大模型的崛起及广泛应用，旧电脑显示出了硬伤，硬件配置方面，老旧的 CPU、GPU 性能不足，运算速度缓慢，导致 AI 模型训练和推理耗时极长。内存与存储有限，无法承载大型 AI 数据集和复杂模型。散热不佳，运行 AI 任务时易过热死机。且旧电脑可能不兼容新的 AI 框架与工具，软件更新困难。这使得用户在利用旧电脑探索 AI 时，体验大打折扣，而 ToDesk云电脑、青椒云、顺网云等或许能为解决这些问题带来新契机。
+
+阅读 1.2w
+
+146 赞
+
+收藏 131
+小雨青年
+Trae AI 上新 SSHremote ，服务器的 Python接口日志排查实战
+点击新建远程链接，输入 SSH 连接命令，例如ssh root@127.0.0.1，这里换成你的服务器公网 IP，然后输入密码，之后，Trae 会配置服务器，自动在远程主机的操作系统上安装 Trae 服务端。根据我们得到的日志，那么下一步就是排查日志，AI 辅助的作用除了告诉我们应该的做法，还有更好的做法，比如对于日志文件，日志文件很容易很长不容易查看，那么我们可以通过less命令查看。接下来，我们得到的解决方案，是可以直接修改服务器上的文件的，，只需要点击应用。干中学嘛，就是这样的。
+
+阅读 3.4k
+
+45 赞
+
+收藏 34
+广龙宇
+【一起学Rust | Tauri2.0框架】基于 Rust 与 Tauri 2.0 框架实现生物识别（指纹识别）应用
+在这篇文章中，我详细介绍了如何利用 Rust 和 Tauri 2.0 框架来构建一个跨平台的指纹识别应用。我重点讲解了 Tauri 的Biometric插件的使用，包括安装方法、权限配置以及核心 API 的调用。为了方便大家理解，我提供了丰富的代码示例，涵盖了前端 JavaScript 和后端 Rust 的实现，并对和方法进行了详细的说明，包括如何配置来定制验证流程。需要注意的是，目前这个方案只适用于 Android 和 iOS 平台，并且需要 Rust 版本大于 1.77.2。
+
+阅读 1w
+
+29 赞
+
+收藏 46
+熊文豪
+【实用部署教程】olmOCR智能PDF文本提取系统：从安装到可视化界面实现
+通过本教程，可以完成OLMOCR在高性能GPU环境下的部署和基本使用。OLMOCR作为一款结合OCR和大语言模型的工具，可以显著提高PDF文档处理的效率和准确性，特别适用于处理学术论文、技术文档等复杂格式的资料。随着AI技术的不断发展，文档智能处理领域将会出现更多创新。OLMOCR提供了灵活的架构，允许研究者和开发者在此基础上进行扩展和定制，以满足特定领域的文档处理需求。希望本文能帮助您顺利部署OLMOCR，提升文档处理效率！
+
+阅读 3k
+
+154 赞
+
+收藏 125
+爱吃烤鸡翅的酸菜鱼
+Java【多线程】（4）阻塞队列
+哈喽大家好吖，今天来给大家分享多线程学习中的阻塞队列，阻塞队列在我们开发中也是一个非常重要的内容，那么话不多说让我们开始吧。
+
+阅读 1.5k
+
+26 赞
+
+收藏 19
+IsLand1314~
+【Json-Rpc #1】项目背景及环境搭建
+关于 Json-Rpc 项目的学习
+
+阅读 1.5k
+
+119 赞
+
+收藏 114
+直播
+更多
+GitTalk 直播： Heygem.ai数字人超4000颗星火燎原 官方手把手教你轻松部署
+
+03/25 15:00
+直播预约
+
+GitTalk 直播：【开源工业物联实战】 IoTGateway核心架构 × 二次开发全攻略
+
+03/26 15:00
+直播预约
+
+仓颉社区第31期workshop
+
+03/27 15:00
+直播预约
+
+OpenVINO™快捷上手指南
+
+热度 14256
+
+活动日历
+更多
+
+31
+
+3月
+
+使用InsCode Ai IDE，极速免费接入Deepseek-R1满血大模型
+线上
+
+31
+
+3月
+
+“学C++，赢好礼”——侯捷C++系列精品课学习笔记征文活动
+线上
+
+17
+
+4月
+
+限时活动，Trae—代码Ai写，今天早下班
+线上
+
+19
+
+4月
+
+2025全球机器学习技术大会
+线下
+精品课程
+更多
+
+VIP
+
+C++新标准11/14
+
+侯捷
+
+共 37.0 节 · 9.5万 人学习
+
+VIP
+
+Java8编程实战
+
+李兴华
+
+共 240.0 节 · 15.2万 人学习
+
+VIP
+
+面试之排序算法
+
+蒋广超
+
+共 7.0 节 · 8.4 千 人学习
+
+VIP
+
+实用数据分析：数据分析师从小白到精通
+
+暮丘
+
+共 31.0 节 · 1.3万 人学习
+
+VIP
+
+快速带你入门深度学习与实战
+
+炮哥带你学
+
+共 66.0 节 · 2.5万 人学习
+
+VIP
+
+python从0到1：期货量化交易系统（CTP实战，高频及合成K线数据
+
+王先生
+
+共 48.0 节 · 2.2万 人学习
+
+社区推荐
+更多
+高通开发者中文社区
+HarmonyOS开发者社区
+英特尔开发人员专区
+NVIDIA AI技术专区
+百度AI Studio社区
+Unity官方开发者社区
+LAVAL社区
+永洪数据分析社区"
+3,https://blog.csdn.net/csdnnews/article/details/146194524?spm=1000.2115.3001.5927,美司法部欲强制谷歌拆分Chrome，Android也岌岌可危？-CSDN博客,2025/3/21 20:38,"博客
+下载
+学习
+社区
+C知道 
+GitCode
+InsCodeAI
+会议
+ 搜索
+会员中心 
+消息
+历史
+创作中心
+创作
+美司法部欲强制谷歌拆分Chrome，Android也岌岌可危？
+CSDN资讯
+于 2025-03-11 18:09:20 发布
+阅读量1.4w
+ 收藏 22
+点赞数 28
+文章标签： chrome 前端
+版权
+
+整理 | 屠敏
+
+
+出品 | CSDN（ID：CSDNnews）
+
+Chrome 浏览器将从 Google 业务中剥离的可能性进一步增加。
+
+近日，美国司法部再次向法院提交判决建议书，要求 Google 剥离 Chrome，并终止其排他性合作关系。此举旨在削弱 Google 在搜索领域的主导地位，推动市场公平竞争。
+
+这一次不仅如此，更有外媒 ArsTechnica 称，Android 如果不“收敛”，或将成为美国司法部的下一个目标。倘若如此，这无疑将对 Google 的业务带来接连的重创。
+
+从法院裁定 Google 存在垄断行为的这几个月
+
+这场风波的起点可以追溯到 2024 年 8 月。
+
+彼时，在美国司法部联合了 52 个州及司法辖区的检察长提起反垄断诉讼四年后，美国哥伦比亚特区法院一锤定音，作出最终判决——确认 Google 在通用搜索服务和通用搜索文字广告市场上拥有垄断地位。当时诉讼指控 Google 通过支付巨额费用，与苹果、三星等科技公司及无线服务商达成协议，确保 Google 搜索成为默认选项，从而维持市场主导地位。
+
+紧接着，在 10 月，美国司法部提交了一份长达 32 页的法庭文件，提出了拆分 Google 作为“瓦解其在搜索领域非法垄断地位”补救措施的设想。同年 11 月，Chrome 成为美国司法部眼中的关键，他们认为 Google 应该剥离 Chrome 业务，以此打破“非法垄断”的地位。
+
+CSDN 付费下载自视觉中国
+
+针对这一情况，Google 显然不认可，并迅速提出上诉，坚称自身行为符合市场规则，并未阻碍竞争。为此，Google 监管事务副总裁 Lee-Anne Mulholland 也进一步警告称：“政府若以这种方式介入，将严重损害消费者利益、开发者权益，并削弱美国在全球的技术领导地位——而这一切正发生在至关重要的时刻。”
+
+自此之后，Google 与多方交涉，试图说服政府重新考虑该提案。本月初，Google 一位发言人透露：“我们定期与监管机构会面，包括与司法部讨论此案。正如我们此前公开声明的那样，我们担心当前提案可能带来负面影响。”
+
+然而，经过数月奔走，Google 的努力似乎收效甚微。
+
+根据最新披露的司法部文件显示，美国司法部的态度依然强硬，直接在文件中写道：“Google 的非法行为造就了一个市场巨头，它在行业内肆意横行，确保无论发生什么，Google 始终是赢家。”
+
+https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1184.0_1.pdf
+
+为此，美国司法部坚持认为，要让竞争环境恢复公平，那么 Chrome 必须被分拆。
+
+司法部向法院提出请求，要求谷歌迅速、彻底地剥离 Chrome 业务，包括所有运行所需的数据及相关资产。政府的目标是将 Chrome 的 34 亿用户群从谷歌手中剥离。与此同时，司法部将严格审查潜在买家，以确保交易不会构成国家安全威胁。在判决生效期间，Google 将被禁止推出任何新浏览器，但仍可继续为开源项目 Chromium 贡献代码。
+
+不过，外媒也指出，此次提交的方案相较于 2024 年初始补救措施有所调整，但未来仍可能发生变化。目前，该案由 Omeed Assefi 负责，他暂时领导司法部反垄断部门。
+
+Google 沿用此前的补救方案，希望阻止 Chrome 被拆分
+
+截至目前，谷歌仍未调整其提交给法院的补救方案，而是继续沿用此前的提案。正如其在博客上分享的核心内容（https://blog.google/outreach-initiatives/public-policy/google-remedies-proposal-dec-2024/）：
+
+浏览器协议
+
+像 Apple、Mozilla 这样的浏览器公司应该继续拥有自由，与它们认为最适合用户的搜索引擎达成合作。法院认可了浏览器公司“偶尔会评估 Google 搜索相较于竞争对手的质量，并认为 Google 搜索更优”。对于 Mozilla 等公司而言，这些合约还是其重要的收入来源。
+
+我们的方案允许浏览器公司继续向用户提供 Google 搜索，并从合作中获得收入，同时给予它们更大的灵活性，如允许在不同平台上签订多个默认搜索引擎协议（例如，iPhone 和 iPad 可以分别设置不同的默认搜索引擎）；允许在不同的浏览模式下使用不同的默认搜索引擎；允许浏览器公司至少每 12 个月更换默认搜索引擎（法院裁决中特别提到 12 个月的协议在反垄断法下被“推定为合理”）。
+
+Android 合同
+
+我们的方案为设备制造商提供了更大的自由度，使其可以：
+
+预装多个搜索引擎。
+
+预装任何 Google 应用，而无需绑定预装 Google 搜索或 Chrome。
+
+这不仅增加了合作伙伴的选择权，也让微软等竞争对手有更多机会竞标搜索引擎的预装位置。
+
+监管与合规
+
+我们的方案包含一套强有力的机制，以确保我们遵守法院裁决，同时避免政府对用户的在线体验施加过度干预。
+
+我们并未轻易提出这些调整，因为这些变化将影响我们的合作伙伴，使其在选择最佳搜索引擎时受到更多限制。此外，这些监管要求也会给我们的合同增加额外负担，而这些合同本已促使设备价格下降，并推动了竞争对手浏览器的创新，这些都对消费者有利。
+
+但我们相信，这一方案完全回应了法院的裁决要求，并且不会危及美国用户的隐私和安全，也不会削弱美国在全球科技领域的领先地位。
+
+Android 和 AI 也被监管中？
+
+值得关注的是，根据司法部最新拟议的补救措施显示，其已经决定不再寻求限制 Google 的 AI 投资，简单来看，Google 可以保留其在 Anthropic 等 AI 初创公司的现有投资。
+
+要知道，虽然此前美国司法部对 Google 提起的反垄断诉讼及调查主要是围绕 Google 搜索业务展开的，并不涉及其 AI 业务。然而，在取证的这几年间，正是 AI 迅速崛起的关键时期，Google 也是 AI 战略布局的领导者之一。于是在2024 年，法官 Mehta 允许美国司法部寻求对 Google AI 投资的限制，理由是 AI 将成为未来搜索引擎的核心组成部分。
+
+现如今，司法部的提案放宽了这一监管，无疑对 Google 而言也是一件好事。不过，最新的提案也指出 Google 必须在进行新 AI 投资前通知政府。
+
+除了 AI，美国司法部对 Android 方面的监管措施也发生变化。先前，政府曾给 Google 两个选择：要么出售 Android，要么改变其运营方式。如今，司法部不再要求 Google 出售 Android，但仍计划对其施加更严格的限制，并还希望 Google 能够彻底改革其 Android 业务。
+
+具体来看，司法部的提议限制包括：
+
+Google 不得强制 Android 设备预装其搜索或生成式 AI 产品，例如限制对 AI Core 或其他 API 的访问。
+
+Google 不得强迫合作伙伴优先使用其搜索或 AI 服务，而非竞争对手的产品。
+
+如果这些措施未能有效削弱 Google 的垄断，或者 Google 试图绕开规定，司法部仍保留最终拆分 Android 的权力，并将对潜在买家进行严格审查，以确保交易符合国家利益。
+
+最终结果如何？两月后或见分晓
+
+随着这轮补救方案的提交，关于拟议补救措施的听证会目前定于 2025 年 4 月 21 日开始，并于 2025 年 5 月 9 日结束。
+
+这一消息引发了广泛讨论，不少用户表达了自己的看法。
+
+来自 HN 的用户 jcranmer 认为，Google 真正的问题不在于对浏览器的控制，而是其在广告市场上的高度垂直整合。他表示：“如果让谷歌退出广告中介业务（撤销对 DoubleClick 的收购），并禁止谷歌向原 Google Ads 业务提供任何特权数据流，可能比司法部当前的策略更有效。”
+
+然而，另一名网友 rafram 则认为问题并不止于此：“谷歌不仅开发依赖广告支持的软件，还运营自己的广告投放服务，并允许其他网站使用该服务展示广告。这本身已经存在一定的利益冲突。而更值得关注的是，它还控制着浏览器平台。如果谷歌开始在搜索排名中优先展示使用 AdSense 的网站，这种行为理论上可以在法庭上轻松证明。律师可以通过取证要求谷歌交出排名算法代码，如果代码里明确写着 if (usesAdSense) score++，那官司就赢了。但如果谷歌利用对浏览器平台的控制，悄然进行某些 Web 标准的调整，从而削弱竞争对手、巩固自身优势，那几乎无法证明。第三方 Cookie 事件就是一个典型案例。”
+
+也还有人认为：“谷歌应该被拆分成多个‘小谷歌’，让它们彼此独立运作、相互合作，就像当年拆分贝尔公司一样。此外，微软、亚马逊、Facebook 也应该进行同样的拆分。实际上，AT&T 和康卡斯特也应该再被拆一次，并且这种拆分应作为一种定期维护机制来执行。”
+
+你对此怎么看？
+
+来源：
+
+https://news.ycombinator.com/item?id=43323485
+
+https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/
+
+推荐阅读：
+
+▶起飞！国产编程语言MoonBit迈进顶级学府、发布重磅LLVM后端，受邀欧美顶级大会
+▶哥大学生用AI“拿下”亚马逊Offer，却被校方调查，怒怼：程序员工作两年内全灭！
+
+▶顶配超10万！两台Mac Studio在家就能跑满血DeepSeek，网友：这是性价比最高的大模型一体机
+
+由 CSDN & Boolan 联合举办的「2025 全球机器学习技术大会」将于 4 月 18-19 日在上海虹桥西郊庄园丽笙大酒店隆重召开，汇聚全球 AI 领域顶级专家，共话智能体、代码大模型等前沿话题，提供全方位的技术解读。
+
+CSDN
+微信公众号
+成就一亿技术人
+CSDN资讯
+关注
+28
+22
+2
+分享
+打赏
+Tenders_Manager:作为BGU，Google和司法部的一部分，我们开发了一个可帮助政府部门运行和管理招标的系统
+03-14
+招标经理 作为BGU，Google和司法部的一部分，我们开发了一个系统来帮助政府部门运行和管理招标。
+制造行业日报：美司法部调查电动卡车公司Nikola.pdf
+07-13
+制造行业日报：美司法部调查电动卡车公司Nikola.pdf
+2 条评论
+设计Z源
+热评
+拆分微信
+写评论
+论强制清算案件是否需要司法解散前置
+08-19
+论强制清算案件是否需要司法解散前置
+基于Android系统的微信语音数据司法取证研究.pdf
+09-21
+基于Android系统的微信语音数据司法取证研究.pdf
+司法部涉外人才推荐情况表.pdf
+11-18
+司法部涉外人才推荐情况表.pdf
+浅谈司法鉴定中Android手机的解锁及镜像.pdf
+09-21
+浅谈司法鉴定中Android手机的解锁及镜像.pdf
+重磅！Chrome 被强制出售？谷歌或将抛弃 ChromeOS 全面转向 Android 系统
+<sdffdsfsdfdfs>sfsfsfsdfsdffds</sdfsDS>Fsd
+ 148
+据彭博社昨日报道，美国司法部计划在谷歌反垄断案中请求法官强制谷歌出售其 Chrome 浏览器。Chrome 是全球使用率最高的浏览器。今年第二季度，“谷歌搜索及其他”业务收入高达 485 亿美元，占母公司 Alphabet 总收入的 57%。目前，谷歌在全球搜索市场中份额占比达 90%。它被视为将用户引向谷歌搜索的关键工具（尽管 Chrome 也以大量占用计算机内存而著称）。此举引发了诸多疑问，包...
+美国司法部欲强制拆解 Google 业务——Google 反垄断案
+2501_90357013的博客
+ 215
+Google 对此提案表示强烈反对，认为这些措施过于激进，可能损害消费者利益，并削弱美国在全球科技领域的竞争力。
+强制谷歌交出私有AI模型数据？美政府要对谷歌进行重大拆分
+人工智能学家
+ 139
+来源：AI前线整理：冬梅 美政府考虑对谷歌进行历史性拆分 时间 10 月 9 日，美国司法部日前提出一项全面议案，考虑强制谷歌出售其部分业务，这可能成为近 40 年来的首次重大企业拆分，并对谷歌这家全球最具价值的科技巨头之一进行重塑。司法部及州检察长联盟本周二提交一份长达 32 页的文件，要求采取可能的补救措施以解决谷歌在搜索及搜索广告方面的垄断问题。文件中表示，“防止及限制垄断维持的必要...
+Chrome 被强制出售？谷歌或将抛弃 ChromeOS 全面转向 Android 系统
+IT界那些事儿
+ 2095
+据彭博社今日报道，美国司法部计划在谷歌反垄断案中请求法官强制谷歌出售其 Chrome 浏览器。Chrome 是全球使用率最高的浏览器。今年第二季度，“谷歌搜索及其他”业务收入高达 485 亿美元，占母公司 Alphabet 总收入的 57%。目前，谷歌在全球搜索市场中份额占比达 90%。它被视为将用户引向谷歌搜索的关键工具（尽管 Chrome 也以大量占用计算机内存而著称）。
+美国司法部的激进反垄断方案，Google 面临拆分危机
+TOPSTIP的博客
+ 335
+美国司法部正考虑将 Google 拆分为多个部分以应对其在搜索领域的垄断问题。目前，司法部正在讨论下一步的行动方案。正如预期的那样，讨论内容包括。可能的方案包括：剥离 Android 和 Chrome。，并说服法官认定其在搜索和广告领域具有。司法部指控 Google 故意。
+司法部鉴定技术规范_司法语音技术_司法部鉴定技术规范_语音鉴定规范_
+09-30
+计算机司法部鉴定技术规范与图像语音司法部鉴定技术规范
+美国司法部对谷歌反垄断案的最新进展，Google每年给苹果200亿？
+AntDream的程序世界
+ 961
+本文首发于公众号“AntDream”，欢迎微信搜索“AntDream”或扫描文章底部二维码关注，和我一起每天进步一点点。
+关于软航OFFICE文档控件软件在Chrome 133版本上提示扩展已停用的原因及处理办法
+yeyuningzi的博客
+ 444
+谷歌浏览器使用软航Office 文档控件提示扩展已停用的问题原因以及解决办法记录
+浏览器工作原理深度解析（阶段二）：HTML 解析与 DOM 树构建
+zhuangkangshang0854的博客
+ 498
+本阶段我们深入探讨了浏览器解析 HTML 并构建 DOM 树的核心机制。通过状态机实现的词法分析和栈驱动的语法分析，浏览器能够高效处理 HTML 代码并生成结构化的 DOM 树。理解这些过程对前端性能优化和复杂问题排查具有重要意义。下一阶段将聚焦 CSS 解析、布局计算和渲染流水线等核心机制。
+命令行参数和环境变量【Linux操作系统】
+2301_80058734的博客
+ 959
+记录当前用户的家目录bash的cwd是会跟着用户的工作路径的变化而变化的。
+如何手动 启动：WebView2Host.exe
+nbspzs的专栏
+ 220
+如果你想要更多的参数或者选项来启动 WebView2Host.exe，可以查看该文件的帮助信息（通常通过命令 WebView2Host.exe /?），看看是否支持额外的启动选项。WebView2Host.exe 通常位于 WebView2 安装目录下，或者在你的应用程序的安装目录中。在命令行工具中，输入 cd 命令来导航到包含 WebView2Host.exe 文件的目录。如果你已经安装了 WebView2，可以搜索系统中的 WebView2Host.exe 文件。
+关于 2＞/dev/null 的作用以及机理
+最新发布
+weixin_57672347的博客
+ 202
+每个进程都有三个标准文件描述符：stdin（标准输入）、stdout（标准输出）和stderr（标准错误）。默认情况下，stderr会输出到终端。使用2>可以将stderr重定向到其他地方，比如文件或者设备文件。/dev/null作为一个字符设备，所有写入它的数据都会被丢弃，不会保存在任何地方，因此执行命令时产生的错误信息就不会显示出来，也不会保存在日志文件中。>/dev/null# 将错误信息记录到日志文件是将标准错误（stderr，文件描述符2）重定向到指定的日志文件。
+Linux find 命令完全指南
+m0_73690328的博客
+ 858
+find是 Linux 系统最强大的文件搜索工具，支持。
+关于我们
+招贤纳士
+商务合作
+寻求报道
+400-660-0108
+kefu@csdn.net
+在线客服
+工作时间 8:30-22:00
+公安备案号11010502030143
+京ICP备19004658号
+京网文〔2020〕1039-165号
+经营性网站备案信息
+北京互联网违法和不良信息举报中心
+家长监护
+网络110报警服务
+中国互联网举报中心
+Chrome商店下载
+账号管理规范
+版权与免责声明
+版权申诉
+出版物许可证
+营业执照
+©1999-2025北京创新乐知网络技术有限公司
+CSDN资讯
+码龄8年
+ 企业员工
+8160
+原创
+-
+周排名
+189万+
+总排名
+7889万+
+访问
+等级
+58万+
+积分
+12万+
+粉丝
+13万+
+获赞
+5万+
+评论
+16万+
+收藏
+私信
+关注
+热门文章
+再见 Java 7！  950514
+看这里！！1024个程序员关于AI PC 的联想  736620
+50 岁的 C 语言，掌控 Windows、Linux、macOS 等操作系统半边天  489515
+Wi-Fi 爆重大安全漏洞，Android、iOS、Windows 等所有无线设备都不安全了  489727
+Python读写Excel表格，就是这么简单粗暴又好用  413295
+最新评论
+最高判10年！55岁程序员遭降级不满，怒植“自毁代码”：被裁当天，公司系统全面崩溃...
+
+汬: 造成的损失还不如把每天接水的杯子买大100ml。。
+
+价格最贵！OpenAI推出o1-pro API，输出600美元/百万token
+
+莫小莫4502: 周五周五，生龙活虎
+
+Java 24正式发布，引入数千项改进！开发者：你发任你发，我用Java 8
+
+5彦祖: java8
+
+Java 24正式发布，引入数千项改进！开发者：你发任你发，我用Java 8
+
+Network porter: 现在新项目应该都是17了把
+
+Siri 被曝「难产」！苹果高管承认：AI 功能成功率仅 60-80%，太“难看且尴尬”了
+
+aCupofGelato: 苹果现在除了自己的生态圈各方面体验都比不上安卓旗舰, 看着安卓的大存储大电池都眼馋
+
+大家在看
+计算机毕业设计ssm社区公共卫生疫情防控管理系统 基于SSM框架的社区公共卫生疫情防控管理解决方案
+Linux下JDK1.8安装配置
+【AI】一文掌握提示词工程技巧  98
+3.5/Q1，Charls最新文章解读  266
+NHANES指标推荐：eGFRdiff  338
+最新文章
+百万奖金池+多元生态加持！2025英特尔人工智能创新应用大赛正式启动
+价格最贵！OpenAI推出o1-pro API，输出600美元/百万token
+腾讯云与MongoDB战略合作升级，瞄准AI时代的数据管理服务
+2025
+03月
+105篇
+02月
+152篇
+01月
+121篇
+2024年1609篇
+2023年2101篇
+2022年1579篇
+2021年1493篇
+2020年3509篇
+2019年3307篇
+2018年1741篇
+2017年226篇
+目录
+▶起飞！国产编程语言MoonBit迈进顶级学府、发布重磅LLVM后端，受邀欧美顶级大会
+▶哥大学生用AI“拿下”亚马逊Offer，却被校方调查，怒怼：程序员工作两年内全灭！
+分类专栏
+资讯
+1237篇
+业界资讯
+256篇
+大模型
+11篇
+AI
+105篇
+开源
+128篇
+编程
+3篇
+开发者
+12篇
+安全
+15篇
+云计算
+25篇
+开放原子开发者大会
+25篇
+芯片
+2篇
+操作系统
+11篇
+基础设施
+4篇
+大数据
+20篇
+近匠
+18篇
+长沙·1024程序员节
+95篇
+世界人工智能大会
+4篇
+AI ProCon 2020
+1篇
+CSDN 在线峰会
+2篇
+迎战新型肺炎，互联网全面出击
+31篇
+问底中国 IT 技术演进
+7篇
+开源操作系统年度技术会议
+5篇
+嵌入式智能国际大会
+16篇
+人工智能
+47篇
+智能网联汽车
+3篇
+企业数字化转型
+5篇
+数据库
+31篇
+全球机器学习技术大会
+10篇
+云原生
+1篇
+亚马逊云科技 re:Invent
+3篇
+年终盘点
+12篇
+开谈
+2篇
+程序员
+49篇
+CTO专访
+2篇
+开源中国开源世界高峰论坛
+14篇
+OPPO适配支持
+4篇
+产业智能化
+7篇
+2022开发者报告
+6篇
+创造力
+2篇
+开源系列谈
+6篇
+华为开发者大会2022
+1篇
+腾讯云
+2篇
+数据安全
+13篇
+源代码
+3篇
+智源
+2篇
+笔记
+8篇
+开发者大调查
+6篇
+人物志
+35篇
+历史上的今天
+1篇
+CSDN黑板报
+10篇
+程序媛
+1篇
+全国大学生操作系统设计赛
+2篇
+AR
+1篇
+5G
+2篇
+智能化生活
+8篇
+云智慧
+1篇
+英特尔FPGA技术大会
+1篇
+CTO
+生物计算
+1篇
+2020 OPPO开发者大会
+1篇
+OPPO
+腾讯全球数字生态大会
+8篇
+百度翻译
+1篇
+云栖大会
+5篇
+百度大脑6.0
+1篇
+华为HMS生态
+2篇
+华为开发者大会
+2篇
+浪潮智能工厂
+1篇
+OpenCV
+1篇
+智能全感知系统
+1篇
+百度智能云
+1篇
+OpenInfra Days China 2020
+2篇
+李跃森
+1篇
+产品见闻
+97篇
+技术之路
+240篇
+程序人生
+75篇
+行业热点
+321篇
+CSDN
+46篇"
+4,https://www.google.com/search?q=kaggle%E6%80%8E%E4%B9%88%E6%B7%BB%E5%8A%A0%E6%96%87%E4%BB%B6&oq=&gs_lcrp=EgZjaHJvbWUqCQgBECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyDwgFEC4YAxiPARi0AhjqAjIRCAYQABgDGEIYjwEYtAIY6gIyEQgHEAAYAxhCGI8BGLQCGOoC0gEIOTI4ajBqMTWoAgiwAgHxBT6Aklvo9bm0&sourceid=chrome&ie=UTF-8,kaggle怎么添加文件 - Google Search,2025/3/21 20:37,"Accessibility links
+Skip to main content
+Accessibility help
+Accessibility feedback
+Filters and topics
+All
+Images
+Videos
+News
+Short videos
+Shopping
+Web
+More
+Tools
+Search Results
+Featured snippet from the web
+以下是上传数据的步骤：
+打开Kaggle平台并登录到你的账户。
+在主菜单中，点击“数据”选项。
+在数据页面中，你会看到一个上传数据的图标。 点击它。
+输入你的数据集的名称。
+将你的本地文件拖拽到对话框中。
+点击“创建”按钮，完成数据上传。
+15 Feb 2024
+从数据上传到模型训练：在Kaggle平台上的一步步指南
+百度开发者中心
+https://developer.baidu.com › article › details
+About featured snippets
+•
+Feedback
+kaggle添加、修改自己的模块和文件原创
+CSDN博客
+https://blog.csdn.net › details
+·
+Translate this page
+28 Jun 2022 — step4：修改、添加模块中的文件 · 1、在kaggle的【datasets】中找到自定义的数据集，并打开数据集。 · 2、打开数据集后，点击页面底部的【new version】，更新 ...
+Kaggle中如何上传文件夹原创
+CSDN博客
+https://blog.csdn.net › details
+·
+Translate this page
+5 Nov 2021 — kaggle的文件夹不可以上传，一般是上传压缩包，然后kaggle平台会自动解压成文件夹。上传过程，点击notebook中运行的界面_kaggle上传文件 ... 在这里插入图片 ...
+在Kaggle上如何导入Python文件包和保存代码
+百度开发者中心
+https://developer.baidu.com › details
+·
+Translate this page
+15 Feb 2024 — 在Kaggle上，您可以使用Jupyter Notebook来编写和运行代码。要导入Python文件包，您可以使用pip或conda命令。要保存您的代码，您可以使用Kaggle的版本控制 ...
+docs/zh-cn/如何导入并使用模块和数据集.md at master
+GitHub
+https://github.com › docs › blob
+·
+Translate this page
+进入Notebook 开发环境之后你可以通过点击工具栏的图标新建文件。 · 点击Notebook 左侧栏的“数据集”，然后切换到Kaggle 标签。 · 按关键字或者热门标签查询相关数据集。 · 点击 ...
+Kaggle入门教程
+知乎专栏
+https://zhuanlan.zhihu.com › ...
+·
+Translate this page
+19 Feb 2021 — 在数据集页面中，点击New Dataset，新建数据集。 弹出新建数据集界面，点击select files to upload，将自己的数据集上传，也可以直接拖动文件到空白处上传 ...
+Exercise: Final Project
+Kaggle
+https://www.kaggle.com › xiefei
+·
+Translate this page
+一旦你找到数据集，点击[添加]按钮，将其附加到笔记本上。你可以通过查看笔记本右边的Data下拉菜单来检查它是否成功——查找包含与数据集名称匹配的子文件夹的input文件夹 ...
+2022-07-02 深度学习Python笔记Kaggle执行原来的 ...
+简书
+https://www.jianshu.com › ...
+·
+Translate this page
+2 Jul 2022 — 6. 运行notebook，kaggle执行python命令，执行main.py, 在main.py里面，通过添加系统路径，调用hellowords.py中的get_hello_word()函数，并打出Hello Word!
+People also ask
+在Kaggle上如何上传文件夹？
+如何在 Kaggle 中添加数据集？
+如何在Kaggle平台上传数据？
+Feedback
+最详细教程-如何参加Kaggle数据科学比赛（中）
+知乎专栏
+https://zhuanlan.zhihu.com › ...
+·
+Translate this page
+它使用一个名为pandas的Python“模块”（缩写为'pd'）将表从train.csv文件加载到笔记本中。为此，我们需要插入文件的位置（我们看到的是 /kaggle/input/titanic/train.
+kaggle小白必看：小白常见的2个错误解决方案
+墨滴
+https://mdnice.com › writing
+·
+Translate this page
+7 Aug 2022 — 1. 自己下载好.whl文件，然后上传到Datasets，然后添加到Input文件夹下，比如： · 上面的安装命令中-q代表的是静默安装，可以不加。 · 这种方法可能会出现依赖 ...
+Images
+kaggle添加、修改自己的模块和文件_kaggle修改文件内容-CSDN博客
+CSDN博客
+kaggle如何上传dataset并且找到相应csv路径_kaggle怎么添加csv ...
+CSDN博客
+如何在kaggle保存运行文件_kaggle生成的文件保存到新文件夹-CSDN博客
+CSDN博客
+Show more images
+People also search for
+Kaggle 编辑 文件
+kaggle上传文件
+Page navigation
+	
+1	
+2
+	
+3
+	
+4
+	
+5
+	
+6
+	
+7
+	
+8
+	
+9
+	
+10
+	
+Next
+Footer links
+Results are personalised
+-
+Try without personalisation
+Hong Kong
+Hong Kong - Based on your past activity
+ - Update location
+HelpSend feedbackPrivacyTerms"
+5,https://www.google.com/search?q=deepseek&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyEQgFEAAYAxhCGI8BGLQCGOoCMhEIBhAAGAMYQhiPARi0AhjqAjIRCAcQABgDGEIYjwEYtAIY6gLSAQg3OTlqMGoxNagCCLACAfEF4Q_7EeiTako&sourceid=chrome&ie=UTF-8,deepseek - Google Search,2025/3/21 20:37,"Accessibility links
+Skip to main content
+Accessibility help
+Accessibility feedback
+Filters and topics
+All
+Images
+News
+Videos
+Shopping
+Short videos
+Forums
+More
+Tools
+Search Results
+Web result with site links
+DeepSeek
+DeepSeek
+https://www.deepseek.com
+DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.
+DeepSeek
+Chat with DeepSeek AI – your intelligent assistant for coding ...
+
+深度搜索聊天
+Chat with DeepSeek AI – your intelligent assistant for coding ...
+
+DeepSeek Platform
+Join DeepSeek API platform to access our AI models ...
+
+Models & Pricing
+Pricing Details​ · (1) The deepseek-chat model points to ...
+
+Sign up
+Join DeepSeek API platform to access our AI models ...
+
+More results from deepseek.com »
+DeepSeek
+Wikipedia
+https://en.wikipedia.org › wiki › DeepSeek
+a Chinese artificial intelligence company that develops large language models (LLMs). Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge ...
+DeepSeek: The Chinese AI app that has the world talking
+BBC
+https://www.bbc.com › news › articles
+4 Feb 2025 — DeepSeek is the name of a free AI-powered chatbot, which looks, feels and works very much like ChatGPT. That means it's used for many of ...
+Access to DeepSeek-R1 and DeepSeek-V3 on the HKU ...
+HKU Teaching and Learning
+https://tl.hku.hk › 2025/03 › access-to-deepseek-r1-and...
+12 Mar 2025 — Deepseek-R1 is a precise assistant skilled at logical reasoning, structured problem-solving, and clearly explaining complex concepts step-by- ...
+Videos
+16:14
+How To Earn $150/Day Online With a Laptop Using ...
+YouTube · Success With Sam
+1 day ago
+12:01
+DeepSeek 2.0? China’s ‘Manus AI’ Could Change Everything!
+YouTube · AI Uncovered
+15 hours ago
+12:17
+What DeepSeek’s Open Source Week Means For AI [Full ...
+YouTube · bycloud
+2 days ago
+View all
+DeepSeek - AI Assistant - Apps on Google Play
+Google Play
+https://play.google.com › store › apps › details › id=com...
+Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by the groundbreaking DeepSeek-V3 model with over 600B parameters, ...
+deepseek-ai/DeepSeek-V3
+GitHub
+https://github.com › deepseek-ai › DeepSeek-V3
+We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.
+DeepSeek - AI Assistant on the App Store - Apple
+Apple
+https://apps.apple.com › app › deepseek-ai-assistant
+16 Feb 2025 — Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by the groundbreaking DeepSeek-V3 model with over ...
+deepseek-ai (DeepSeek)
+Hugging Face
+https://huggingface.co › deepseek-ai
+DeepSeek (深度求索), founded in 2023, is a Chinese company dedicated to making AGI a reality. Unravel the mystery of AGI with curiosity.
+DeepSeek
+GitHub
+https://github.com › deepseek-ai
+A high-performance distributed file system designed to address the challenges of AI training and inference workloads. deepseek-ai/3FS's past year of commit ...
+People also search for
+Chatgpt
+DeepSeek AI
+DeepSeek founder
+DeepSeek download
+DeepSeek app
+DeepSeek login
+DeepSeek AI free
+DeepSeek stock
+Page navigation
+	
+1	
+2
+	
+3
+	
+4
+	
+5
+	
+6
+	
+7
+	
+8
+	
+9
+	
+10
+	
+Next
+DeepSeek
+Artificial intelligence company
+Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd., doing business as DeepSeek, is a Chinese artificial intelligence company that develops large language models. Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge fund High-Flyer.
+ 
+Wikipedia
+More
+deepseek.com
+Founder: Liang Wenfeng
+Founded: May 2023, Hangzhou, China
+Headquarters: Hangzhou, Zhejiang, China
+Number of employees: 160 (2025)
+Owner: High-Flyer
+People also search for
+High‑Flyer
+Perplexity AI
+Xiaomi
+Unitree Robotics
+Feedback
+Footer links
+Results are personalised
+-
+Try without personalisation
+Hong Kong
+Hong Kong - Based on your past activity
+ - Update location
+HelpSend feedbackPrivacyTerms"
+6,https://chat.deepseek.com/sign_in,DeepSeek,2025/3/21 20:37,"验证码登录
+密码登录
+你所在地区仅支持 手机号 / 微信 / 邮箱 登录
++86
+发送验证码
+注册登录即代表已阅读并同意我们的 
+用户协议 与 
+隐私政策，未注册的手机号将自动注册
+登录
+微信扫码登录
+浙ICP备2023025841号
+ · 
+联系我们"
+7,https://chat.deepseek.com/,DeepSeek,2025/3/21 20:37,"验证码登录
+密码登录
+你所在地区仅支持 手机号 / 微信 / 邮箱 登录
++86
+发送验证码
+注册登录即代表已阅读并同意我们的 
+用户协议 与 
+隐私政策，未注册的手机号将自动注册
+登录
+微信扫码登录
+浙ICP备2023025841号
+ · 
+联系我们"
+8,https://www.google.com/search?q=deepseek&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyEQgFEAAYAxhCGI8BGLQCGOoCMhEIBhAAGAMYQhiPARi0AhjqAjIRCAcQABgDGEIYjwEYtAIY6gLSAQoxNjI5M2owajE1qAIIsAIB8QU5jmAsUrx0wA&sourceid=chrome&ie=UTF-8,deepseek - Google Search,2025/3/21 20:37,"Accessibility links
+Skip to main content
+Accessibility help
+Accessibility feedback
+Filters and topics
+All
+Images
+News
+Videos
+Shopping
+Short videos
+Forums
+More
+Tools
+Search Results
+Web result with site links
+DeepSeek
+DeepSeek
+https://www.deepseek.com
+DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.
+DeepSeek
+Chat with DeepSeek AI – your intelligent assistant for coding ...
+
+深度搜索聊天
+Chat with DeepSeek AI – your intelligent assistant for coding ...
+
+DeepSeek Platform
+Join DeepSeek API platform to access our AI models ...
+
+Models & Pricing
+Pricing Details​ · (1) The deepseek-chat model points to ...
+
+Sign up
+Join DeepSeek API platform to access our AI models ...
+
+More results from deepseek.com »
+DeepSeek
+Wikipedia
+https://en.wikipedia.org › wiki › DeepSeek
+a Chinese artificial intelligence company that develops large language models (LLMs). Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge ...
+DeepSeek: The Chinese AI app that has the world talking
+BBC
+https://www.bbc.com › news › articles
+4 Feb 2025 — DeepSeek is the name of a free AI-powered chatbot, which looks, feels and works very much like ChatGPT. That means it's used for many of ...
+Access to DeepSeek-R1 and DeepSeek-V3 on the HKU ...
+HKU Teaching and Learning
+https://tl.hku.hk › 2025/03 › access-to-deepseek-r1-and...
+12 Mar 2025 — Deepseek-R1 is a precise assistant skilled at logical reasoning, structured problem-solving, and clearly explaining complex concepts step-by- ...
+Videos
+16:14
+How To Earn $150/Day Online With a Laptop Using ...
+YouTube · Success With Sam
+1 day ago
+12:01
+DeepSeek 2.0? China’s ‘Manus AI’ Could Change Everything!
+YouTube · AI Uncovered
+15 hours ago
+12:17
+What DeepSeek’s Open Source Week Means For AI [Full ...
+YouTube · bycloud
+2 days ago
+View all
+DeepSeek - AI Assistant - Apps on Google Play
+Google Play
+https://play.google.com › store › apps › details › id=com...
+Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by the groundbreaking DeepSeek-V3 model with over 600B parameters, ...
+deepseek-ai/DeepSeek-V3
+GitHub
+https://github.com › deepseek-ai › DeepSeek-V3
+We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.
+DeepSeek - AI Assistant on the App Store - Apple
+Apple
+https://apps.apple.com › app › deepseek-ai-assistant
+16 Feb 2025 — Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by the groundbreaking DeepSeek-V3 model with over ...
+deepseek-ai (DeepSeek)
+Hugging Face
+https://huggingface.co › deepseek-ai
+DeepSeek (深度求索), founded in 2023, is a Chinese company dedicated to making AGI a reality. Unravel the mystery of AGI with curiosity.
+DeepSeek
+GitHub
+https://github.com › deepseek-ai
+A high-performance distributed file system designed to address the challenges of AI training and inference workloads. deepseek-ai/3FS's past year of commit ...
+People also search for
+Chatgpt
+DeepSeek AI
+DeepSeek founder
+DeepSeek download
+DeepSeek app
+DeepSeek login
+DeepSeek AI free
+DeepSeek stock
+Page navigation
+	
+1	
+2
+	
+3
+	
+4
+	
+5
+	
+6
+	
+7
+	
+8
+	
+9
+	
+10
+	
+Next
+DeepSeek
+Artificial intelligence company
+Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd., doing business as DeepSeek, is a Chinese artificial intelligence company that develops large language models. Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge fund High-Flyer.
+ 
+Wikipedia
+More
+deepseek.com
+Founder: Liang Wenfeng
+Founded: May 2023, Hangzhou, China
+Headquarters: Hangzhou, Zhejiang, China
+Number of employees: 160 (2025)
+Owner: High-Flyer
+People also search for
+High‑Flyer
+Perplexity AI
+Xiaomi
+Unitree Robotics
+Feedback
+Footer links
+Results are personalised
+-
+Try without personalisation
+Hong Kong
+Hong Kong - Based on your past activity
+ - Update location
+HelpSend feedbackPrivacyTerms"
+9,https://kaoshi.wjx.top/vm/ebUB6ak.aspx,高中物理测试,2025/3/21 20:37,"高中物理测试
+*
+您的姓名：
+
+*
+请输入您的手机号码：
+
+*
+请输入您的邮箱账号：
+
+*
+请输入您的大学名称：
+*
+请输入您的专业名称：
+*
+请问您的学业是在读还是已毕业（1-在读，2-已毕业）
+下一页
+隐私政策
+问卷星提供技术支持
+举报"
+10,https://www.google.com/search?q=deepseek&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyEQgFEAAYAxhCGI8BGLQCGOoCMhEIBhAAGAMYQhiPARi0AhjqAjIRCAcQABgDGEIYjwEYtAIY6gLSAQg1MTVqMGoxNagCCLACAfEF9OWv0GTxU2I&sourceid=chrome&ie=UTF-8,deepseek - Google Search,2025/3/21 18:10,"Accessibility links
+Skip to main content
+Accessibility help
+Accessibility feedback
+Filters and topics
+All
+Images
+News
+Videos
+Shopping
+Short videos
+Forums
+More
+Tools
+Search Results
+Web result with site links
+DeepSeek
+DeepSeek
+https://www.deepseek.com
+DeepSeek, unravel the mystery of AGI with curiosity. Answer the essential question with long-termism.
+DeepSeek
+Chat with DeepSeek AI – your intelligent assistant for coding ...
+
+深度搜索聊天
+Chat with DeepSeek AI – your intelligent assistant for coding ...
+
+DeepSeek Platform
+Join DeepSeek API platform to access our AI models ...
+
+Models & Pricing
+Pricing Details​ · (1) The deepseek-chat model points to ...
+
+Sign up
+Join DeepSeek API platform to access our AI models ...
+
+More results from deepseek.com »
+DeepSeek
+Wikipedia
+https://en.wikipedia.org › wiki › DeepSeek
+a Chinese artificial intelligence company that develops large language models (LLMs). Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge ...
+DeepSeek: The Chinese AI app that has the world talking
+BBC
+https://www.bbc.com › news › articles
+4 Feb 2025 — DeepSeek is the name of a free AI-powered chatbot, which looks, feels and works very much like ChatGPT. That means it's used for many of ...
+Access to DeepSeek-R1 and DeepSeek-V3 on the HKU ...
+HKU Teaching and Learning
+https://tl.hku.hk › 2025/03 › access-to-deepseek-r1-and...
+12 Mar 2025 — Deepseek-R1 is a precise assistant skilled at logical reasoning, structured problem-solving, and clearly explaining complex concepts step-by- ...
+Videos
+16:14
+How To Earn $150/Day Online With a Laptop Using ...
+YouTube · Success With Sam
+1 day ago
+12:01
+DeepSeek 2.0? China’s ‘Manus AI’ Could Change Everything!
+YouTube · AI Uncovered
+15 hours ago
+12:17
+What DeepSeek’s Open Source Week Means For AI [Full ...
+YouTube · bycloud
+2 days ago
+View all
+DeepSeek - AI Assistant - Apps on Google Play
+Google Play
+https://play.google.com › store › apps › details › id=com...
+Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by the groundbreaking DeepSeek-V3 model with over 600B parameters, ...
+deepseek-ai/DeepSeek-V3
+GitHub
+https://github.com › deepseek-ai › DeepSeek-V3
+We present DeepSeek-V3, a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token.
+DeepSeek - AI Assistant on the App Store - Apple
+Apple
+https://apps.apple.com › app › deepseek-ai-assistant
+16 Feb 2025 — Experience seamless interaction with DeepSeek's official AI assistant for free! Powered by the groundbreaking DeepSeek-V3 model with over ...
+deepseek-ai (DeepSeek)
+Hugging Face
+https://huggingface.co › deepseek-ai
+DeepSeek (深度求索), founded in 2023, is a Chinese company dedicated to making AGI a reality. Unravel the mystery of AGI with curiosity.
+DeepSeek
+GitHub
+https://github.com › deepseek-ai
+A high-performance distributed file system designed to address the challenges of AI training and inference workloads. deepseek-ai/3FS's past year of commit ...
+People also search for
+Chatgpt
+DeepSeek AI
+DeepSeek founder
+DeepSeek download
+DeepSeek app
+DeepSeek login
+DeepSeek AI free
+DeepSeek stock
+Page navigation
+	
+1	
+2
+	
+3
+	
+4
+	
+5
+	
+6
+	
+7
+	
+8
+	
+9
+	
+10
+	
+Next
+DeepSeek
+Artificial intelligence company
+Hangzhou DeepSeek Artificial Intelligence Basic Technology Research Co., Ltd., doing business as DeepSeek, is a Chinese artificial intelligence company that develops large language models. Based in Hangzhou, Zhejiang, it is owned and funded by the Chinese hedge fund High-Flyer.
+ 
+Wikipedia
+More
+deepseek.com
+Founder: Liang Wenfeng
+Founded: May 2023, Hangzhou, China
+Headquarters: Hangzhou, Zhejiang, China
+Number of employees: 160 (2025)
+Owner: High-Flyer
+People also search for
+High‑Flyer
+Perplexity AI
+Xiaomi
+Unitree Robotics
+Feedback
+Footer links
+Results are personalised
+-
+Try without personalisation
+Hong Kong
+Hong Kong - Based on your past activity
+ - Update location
+HelpSend feedbackPrivacyTerms"
+11,https://codegeex.cn/,CodeGeeX - A Multilingual Code Generation Tool - CodeGeeX,2025/3/21 18:10,"首页下载模型介绍博客使用手册校园版AI助教智谱开放平台
+简|English
+CodeGeeX 智能编程助手
+|
+视频介绍下载插件
+代码生成与补全
+注释生成
+代码翻译
+智能问答
+1  imp
+高效、全能， 尽享编程乐趣
+代码自动生成和补全
+CodeGeeX可以根据自然语言注释描述的功能自动生成代码，也可以根据已有的代码自动生成后续代码，补全当前行或生成后续若干行，帮助你提高编程效率。
+代码翻译
+基于AI大模型对代码进行语义级翻译，支持多种编程语言互译。
+自动添加注释
+CodeGeeX可以给代码自动添加行级注释，节省大量开发时间。没有注释的历史代码，也不再是问题。
+智能问答
+开发中遇到的技术问题，可直接向AI提问。无需离开IDE环境，去搜索引擎寻找答案，让开发者更专注地沉浸于开发环境。
+更多功能
+通过快捷命令和提问，可实现更多功能，如解释选中的代码、修正代码的bug等。
+功能反馈
+您有任何问题都可以向我们 提供反馈
+支持多种IDE与语言，持续增加中
+CodeGeeX支持多种主流IDE，如VS Code、IntelliJ IDEA、PyCharm、Vim等，
+同时，支持Python、Java、C++/C、JavaScript、Go等多种语言。
+支持IDEs
+支持语言
+Visual Studio Code
+IntelliJ IDEA
+PyCharm
+WebStorm
+Visual Studio
+HBuilderX
+GoLand
+Android Studio
+PhpStorm
+来自用户的声音
+使用方便快捷，大大提升开发效率，来自10万+真实用户的反馈
+目前，CodeGeeX是对标GitHub CoPilot的国产工具中做得最好的那一个。广泛的编程语言支持、主流开发平台的插件支持、新特性快速迭代，让CodeGeeX完胜其他国内竞品，为开发者提供了强大的效率支持，让开发者从一部分枯燥的重复编码工作中解放出来，减少出错情况，在IT内卷时代获得有效辅助。
+360工程师 | 风哥
+CodeGeeX在代码生成方面表现强劲，可以有效提升开发者的生产力。同时，CodeGeeX具备高度的开放性，公开的论文向外界提供了学习模型原理的机会，开放的API也给了开发者个性化定制的能力。
+阿里前端工程师 | LanceZhu
+不论是做软件开发还是写深度学习的代码，在使用CodeGeeX插件之后，效率大大提高。CodeGeeX似乎能感知你将要写什么，现在我已经离不开它了！
+Python开发者 | 陶小桃Blog作者
+企业版
+合作咨询
+软硬一体机，开箱即用，更快更稳定
+代码仓库级补写、问答和检索增强
+企业级管理平台
+本地或云端私有化，无缝扩展
+从硬件、操作系统、数据库到模型的完整信创方案
+更大尺寸模型自由组合
+常见问题
+CodeGeeX是什么？
+CodeGeeX是一款基于大模型的全能的智能编程助手。它可以实现代码的生成与补全、自动添加注释、代码翻译以及智能问答等功能，能够帮助开发者显著提高工作效率。CodeGeeX支持主流的编程语言，并适配多种主流IDE。
+CodeGeeX支持哪些编程语言？
+CodeGeeX支持哪些IDE？
+CodeGeeX是免费的吗？
+CodeGeeX是可以私有化部署？
+开源开放
+CodeGeex4-ALL-9B模型权重已开源。欢迎加入我们，让CodeGeeX变得更好！
+访问Github
+产品
+产品下载
+开源代码及模型
+公司
+关于我们
+智谱大模型
+媒体
+  @CodeGeeX
+  CodeGeeX
+  @codegeex_ai
+合作伙伴
+腾讯云 Cloud Studio
+deepin 社区
+联系方式
+商务合作：codegeex@zhipuai.cn
+公司地址：北京市海淀区中关村东路1号院9号楼10层
+微信公众号
+商务合作
+Copyright © 2025 北京智谱华章科技有限公司 京ICP备20011824号-15"
+12,https://codegeex.cn/?sessionId=e74ef3f1-d979-4003-8124-99cb904b0a7b,CodeGeeX - A Multilingual Code Generation Tool - CodeGeeX,2025/3/21 18:10,"首页下载模型介绍博客使用手册校园版智谱开放平台
+简|English
+登 录
+CodeGeeX 智能编程助手
+|
+视频介绍下载插件
+代码生成与补全
+注释生成
+代码翻译
+智能问答
+1  imp
+高效、全能， 尽享编程乐趣
+代码自动生成和补全
+CodeGeeX可以根据自然语言注释描述的功能自动生成代码，也可以根据已有的代码自动生成后续代码，补全当前行或生成后续若干行，帮助你提高编程效率。
+代码翻译
+基于AI大模型对代码进行语义级翻译，支持多种编程语言互译。
+自动添加注释
+CodeGeeX可以给代码自动添加行级注释，节省大量开发时间。没有注释的历史代码，也不再是问题。
+智能问答
+开发中遇到的技术问题，可直接向AI提问。无需离开IDE环境，去搜索引擎寻找答案，让开发者更专注地沉浸于开发环境。
+更多功能
+通过快捷命令和提问，可实现更多功能，如解释选中的代码、修正代码的bug等。
+功能反馈
+您有任何问题都可以向我们 提供反馈
+支持多种IDE与语言，持续增加中
+CodeGeeX支持多种主流IDE，如VS Code、IntelliJ IDEA、PyCharm、Vim等，
+同时，支持Python、Java、C++/C、JavaScript、Go等多种语言。
+支持IDEs
+支持语言
+Visual Studio Code
+IntelliJ IDEA
+PyCharm
+WebStorm
+Visual Studio
+HBuilderX
+GoLand
+Android Studio
+PhpStorm
+来自用户的声音
+使用方便快捷，大大提升开发效率，来自10万+真实用户的反馈
+目前，CodeGeeX是对标GitHub CoPilot的国产工具中做得最好的那一个。广泛的编程语言支持、主流开发平台的插件支持、新特性快速迭代，让CodeGeeX完胜其他国内竞品，为开发者提供了强大的效率支持，让开发者从一部分枯燥的重复编码工作中解放出来，减少出错情况，在IT内卷时代获得有效辅助。
+360工程师 | 风哥
+CodeGeeX在代码生成方面表现强劲，可以有效提升开发者的生产力。同时，CodeGeeX具备高度的开放性，公开的论文向外界提供了学习模型原理的机会，开放的API也给了开发者个性化定制的能力。
+阿里前端工程师 | LanceZhu
+不论是做软件开发还是写深度学习的代码，在使用CodeGeeX插件之后，效率大大提高。CodeGeeX似乎能感知你将要写什么，现在我已经离不开它了！
+Python开发者 | 陶小桃Blog作者
+企业版
+合作咨询
+软硬一体机，开箱即用，更快更稳定
+代码仓库级补写、问答和检索增强
+企业级管理平台
+本地或云端私有化，无缝扩展
+从硬件、操作系统、数据库到模型的完整信创方案
+更大尺寸模型自由组合
+常见问题
+CodeGeeX是什么？
+CodeGeeX是一款基于大模型的全能的智能编程助手。它可以实现代码的生成与补全、自动添加注释、代码翻译以及智能问答等功能，能够帮助开发者显著提高工作效率。CodeGeeX支持主流的编程语言，并适配多种主流IDE。
+CodeGeeX支持哪些编程语言？
+CodeGeeX支持哪些IDE？
+CodeGeeX是免费的吗？
+CodeGeeX是可以私有化部署？
+开源开放
+CodeGeex4-ALL-9B模型权重已开源。欢迎加入我们，让CodeGeeX变得更好！
+访问Github
+产品
+产品下载
+开源代码及模型
+公司
+关于我们
+智谱大模型
+媒体
+  @CodeGeeX
+  CodeGeeX
+  @codegeex_ai
+合作伙伴
+腾讯云 Cloud Studio
+deepin 社区
+联系方式
+商务合作：codegeex@zhipuai.cn
+公司地址：北京市海淀区中关村东路1号院9号楼10层
+微信公众号
+商务合作
+Copyright © 2025 北京智谱华章科技有限公司 京ICP备20011824号-15"
